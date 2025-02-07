@@ -8,16 +8,13 @@ title = "Marco Molinati"
 
 [params]
   dateFormat = "2 January 2006"
-  description = "Personal website of Marco Molinati"
-
-  # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  description = "Personal website of Marco Molinati, Data Scientist & AI Engineer"
 
 [params.author]
   name = "Marco Molinati"
   # image = "img/author.jpg"
-  headline = "Data Scientist &amp; AI Engineer"
-  bio = "Data Scientist &amp; AI Engineer"
+  headline = "Data Scientist & AI Engineer"
+  bio = "I am a Data Scientist & AI Engineer with a passion for harnessing data and AI to solve real-world problems. Currently working at Informatica, where I contribute to cutting-edge AI and data-driven projects."
   links = [
     { instagram = "https://instagram.com/marco.molinati" },
     { github = "https://github.com/Moli2211" },
