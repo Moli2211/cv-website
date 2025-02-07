@@ -12,7 +12,7 @@ title = "Marco Molinati"
 
 [params.author]
   name = "Marco Molinati"
-  # image = "img/author.jpg"
+  image = "img/avatar.jpg"
   headline = "Data Scientist & AI Engineer"
   bio = "I am a Data Scientist & AI Engineer with a passion for harnessing data and AI to solve real-world problems. Currently working at Informatica, where I contribute to cutting-edge AI and data-driven projects."
   links = [
