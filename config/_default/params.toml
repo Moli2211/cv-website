@@ -7,7 +7,7 @@
 
 colorScheme = "ocean"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 defaultThemeColor = "#007fff"
 
 enableSearch = false
@@ -18,8 +18,8 @@ enableImageLazyLoading = true
 fingerprintAlgorithm = "sha256"
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  logo = "img/avatar.png"
+  layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
+  logo = "img/avatar.jpg"
   # logoDark = "img/dark-logo.jpg"
   showTitle = true
 

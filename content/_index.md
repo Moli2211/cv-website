@@ -15,5 +15,5 @@ insights and AI-powered solutions.
 With a strong foundation in data analysis, machine learning and AI, I’m always exploring new ways to apply advanced
 techniques to improve business outcomes and enhance decision-making processes.
 
-Feel free to reach out if you’d like to connect or discuss potential opportunities. You can reach me
-via [email](molinati2211@gmail.com).
+> Feel free to reach out if you’d like to connect or discuss potential opportunities. You can reach me
+> via [email](molinati2211@gmail.com).
